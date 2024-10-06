@@ -1,2 +1,2 @@
 # Priety-Portfolio
-this sis my portfolio
+this is my portfolio
